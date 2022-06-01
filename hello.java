@@ -1,1 +1,3 @@
-sout("hello world£¡£¡£¡")
+sout("hello worldï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"
+     
+ linzong!!
